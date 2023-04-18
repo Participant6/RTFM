@@ -7,7 +7,7 @@ jobs:
     - uses: actions/checkout@master
     - name: Run action
       # Put your action repo here
-      uses: RTFM/My Workflow1@master
+      uses: RTFM/test_calculette.py@master
 
       # Put an example of your mandatory inputs here
       with:
