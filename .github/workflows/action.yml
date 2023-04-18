@@ -12,3 +12,4 @@ jobs:
       # Put an example of your mandatory inputs here
       with:
         myInput: world
+
