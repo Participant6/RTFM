@@ -16,4 +16,4 @@ jobs:
         pip install pytest
     - name: Run action
       run: |
-       python test_calculette.py 20
+       pytest test_calculette.py 20
